@@ -12,3 +12,4 @@ This repository contains
     - Full Load logic for recursive file loads
     - incremental and full load using Autoloader
     - increment and full load using DLT
+- Manual CDF loading logic for incremental file loads
